@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(76, 148, 92);
+}
+
+#Haut {
+  margin-right: 1em;
+  font-size: 30px;
+  margin-left: 10em;
+}
+
+#Premier {
+  margin-bottom: 5em;
+  margin-top: 1em;
+  height: 3em;
+  width: 20em;
+  margin-left: 12em;
+  text-align: center;
+}
+
+#Deuxieme {
+  height: 3em;
+  width: 20em;
+  margin-left: 10em;
+  margin-bottom: 2em;
+  text-align: center;
+}
+
+body {
+  background-color: rgb(73, 124, 107);
+}
+
+.btn {
+  background-color: rgb(160, 226, 94);
+  width: 20em;
+  height: 4em;
+  border-radius: 20%;
+  margin-top: 2.5em;
+  margin-bottom: 2.5em;
+  margin-left: 22em;
+}
+
+.impf {
+  height: 3em;
+  width: 20em;
+  margin-left: 8em;
+}
